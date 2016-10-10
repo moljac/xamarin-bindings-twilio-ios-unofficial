@@ -6,7 +6,7 @@ This repository provides the ApiDefinitions and Structures for Twilio Common, Co
 You will need the following archives to compile these bindings:
 
 - [Twilio Common v0.3.1](https://media.twiliocdn.com/sdk/ios/common/releases/0.3.1/twilio-common-ios-0.3.1.tar.bz2)
-- [Twilio IPMessaging v0.15]https://media.twiliocdn.com/sdk/ios/ip-messaging/v0.15/twilio-ip-messaging-ios.tar.bz2()
+- [Twilio IPMessaging v0.15](https://media.twiliocdn.com/sdk/ios/ip-messaging/v0.15/twilio-ip-messaging-ios.tar.bz2)
 - [Twilio Conversations v.0.25.1](https://media.twiliocdn.com/sdk/ios/conversations/releases/0.25.1/twilio-conversations-ios-0.25.1.tar.bz2)
 
 
