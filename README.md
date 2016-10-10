@@ -11,14 +11,15 @@ You will need the following archives to compile these bindings:
 
 
 To compile:
-1. Download the 3 frameworks above.
-2. Expand each framework.
-3. Navigation to Versions\A\
-4. Find the static archive.
-    - It won't have an extension, but will be > 50MB.
+
+1. Download the 3 frameworks above
+    - Expand each framework.
+2. Navigation to Versions\A\
+3. Find the static archive.
+    - It won't have an extension, but will be > 50MB
     - Example: TwilioCommon is 135.3MB
-5. Copy the static archive into this repository's Lib directory
-6. Add an ".a" extension to the static archive.
+4. Copy the static archive into this repository's Lib directory
+5. Add an ".a" extension to the static archive
     - Example: TwilioCommon.a
-7. Compile
+6. Compile
 
